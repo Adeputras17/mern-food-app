@@ -1,0 +1,14 @@
+@font-face {
+  font-family: myFont;
+  src: url(../public/assets/fonts/PlayfairDisplay-Regular.ttf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: myFont;
+}
