@@ -1,0 +1,617 @@
+[{
+  "_id": {
+    "$oid": "63a049cd4afd4cd2f3b2c78d"
+  },
+  "name": "ikan bakar",
+  "description": "testing",
+  "price": 15000,
+  "image_url": "bb154f79235f31bde7722a1f923d28da.jpg",
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671449037162"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671455850192"
+    }
+  },
+  "__v": 0,
+  "tags": {
+    "$oid": "639f18a840c57c193bbb4cca"
+  }
+},{
+  "_id": {
+    "$oid": "63a333138001d09e076513e8"
+  },
+  "name": "kado",
+  "description": "testing authorization",
+  "price": 2000,
+  "image_url": "d4c66a888f44ef2e6bc7a876df86ad92.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671639827150"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671639827150"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b415b7edb2386fa8bf5da3"
+  },
+  "name": "roti ",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746423654"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746423654"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b4165dedb2386fa8bf5da6"
+  },
+  "name": "burger",
+  "description": "available",
+  "price": 10000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746589557"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746589557"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b4168fedb2386fa8bf5da9"
+  },
+  "name": "kentang goreng",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746639620"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746639620"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b416c5edb2386fa8bf5dac"
+  },
+  "name": "surabi",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746693515"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746693515"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b416e3edb2386fa8bf5daf"
+  },
+  "name": "bisquits",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746723953"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746723953"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b417a1edb2386fa8bf5db2"
+  },
+  "name": "chiffton cake",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746913454"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746913454"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b417d0edb2386fa8bf5db5"
+  },
+  "name": "ubi goreng",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746960887"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746960887"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b417f6edb2386fa8bf5db8"
+  },
+  "name": "krabby patty",
+  "description": "available",
+  "price": 7000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672746998193"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672746998193"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41809edb2386fa8bf5dbb"
+  },
+  "name": "big krabby patty",
+  "description": "available",
+  "price": 7000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747017683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747017683"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41828edb2386fa8bf5dbe"
+  },
+  "name": "pizza",
+  "description": "available",
+  "price": 7000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747048905"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747048905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b4185cedb2386fa8bf5dc1"
+  },
+  "name": "roti bulat",
+  "description": "available",
+  "price": 9000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747100371"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747100371"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41885edb2386fa8bf5dc4"
+  },
+  "name": "cake keju strowbery",
+  "description": "available",
+  "price": 10000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747141213"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747141213"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b4189eedb2386fa8bf5dc7"
+  },
+  "name": "roti lapis gula",
+  "description": "available",
+  "price": 10000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747166791"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747166791"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b418cdedb2386fa8bf5dca"
+  },
+  "name": "pizza medium",
+  "description": "available",
+  "price": 100000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747213158"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747213158"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b418ededb2386fa8bf5dcd"
+  },
+  "name": "pizza extra",
+  "description": "available",
+  "price": 100000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747245165"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747245165"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41912edb2386fa8bf5dd0"
+  },
+  "name": "kroisan",
+  "description": "available",
+  "price": 90000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747282155"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747282155"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b4192cedb2386fa8bf5dd3"
+  },
+  "name": "roti extra",
+  "description": "available",
+  "price": 10000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747308956"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747308956"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41946edb2386fa8bf5dd6"
+  },
+  "name": "popcorn",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747334757"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747334757"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41964edb2386fa8bf5dd9"
+  },
+  "name": "pound cake",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747364701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747364701"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b4197dedb2386fa8bf5ddc"
+  },
+  "name": "pizza small",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63a049944afd4cd2f3b2c78a"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747389204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747389204"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b419b9edb2386fa8bf5ddf"
+  },
+  "name": "coffee expreso",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63b41412edb2386fa8bf5d9b"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747449898"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747449898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b419eeedb2386fa8bf5de2"
+  },
+  "name": "hot tea",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63b41412edb2386fa8bf5d9b"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747502926"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747502926"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41a0dedb2386fa8bf5de5"
+  },
+  "name": "coffe cappucino",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63b41412edb2386fa8bf5d9b"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747533733"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747533733"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41a1fedb2386fa8bf5de8"
+  },
+  "name": "coffe ",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63b41412edb2386fa8bf5d9b"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747551105"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747551105"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41a4aedb2386fa8bf5deb"
+  },
+  "name": "ice cappucino",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63b41412edb2386fa8bf5d9b"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747594762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747594762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b41a65edb2386fa8bf5dee"
+  },
+  "name": "ice tea",
+  "description": "available",
+  "price": 5000,
+  "category": {
+    "$oid": "63b41412edb2386fa8bf5d9b"
+  },
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672747621905"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672747621905"
+    }
+  },
+  "__v": 0
+}]
